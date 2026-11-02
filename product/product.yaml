@@ -1,0 +1,10 @@
+_ > nanoagent.plugin.v0001.ProductConfig:
+tagline: "Check and save page-translate results"
+summary: "A reproducible systems exercise with typed inputs, deterministic computation and an independent verifier."
+highlights:
+  - "Explicit rules and boundary cases"
+  - "Checks the saved file as well as the submitted result"
+steps:
+  - "Provide the structured task input described in the README"
+  - "Ask the agent to compute and save the result"
+  - "Inspect the result card and verifier verdict"
